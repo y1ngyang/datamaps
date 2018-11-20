@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "d3": "^5.7.0",
-    "topojson": "^1.6.19",
+    "topojson": "^3.0.2",
     "@types/d3": "5.0.1"
   },
   "devDependencies": {
