@@ -19,7 +19,7 @@
     "test": "grunt jasmine"
   },
   "dependencies": {
-    "d3": "^5.7.0",
+    "d3": "^6.0.0",
     "topojson": "^1.6.19",
     "@types/d3": "5.0.1"
   },
